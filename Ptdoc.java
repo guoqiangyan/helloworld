@@ -17,9 +17,11 @@ public class Ptdoc implements java.io.Serializable {
 	private String user;
 	private Timestamp ctime;
 	private String linkstr;
+    
+    
 
-	// Constructors
-
+	//onstructors
+    
 	/** default constructor */
 	public Ptdoc() {
 	}
